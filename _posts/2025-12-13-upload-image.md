@@ -9,5 +9,9 @@ I'm trying to upload photos to add pizazz into this awesome blog. This is a phot
 ![whimsy mould](/assets/images/blog_image_1.jpeg)
 This photo, to me, is like whimsical mould under a starry night. Or something.
 
+
+
 Signing off,
+
+
 Sharon.
