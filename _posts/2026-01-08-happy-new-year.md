@@ -1,2 +1,6 @@
-Title: "Happy New Year"
+---
+layout: post
+title: "Happy New Year"
+---
 
+Hi 
